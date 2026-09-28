@@ -2,8 +2,7 @@ const message = `
 Happiest Birthday, Anuja! ❤️
 Dear Anuja (Nae haengbok 😊)
 Happy Birthday to the most amazing person! 🎉
-I hope today brings you countless reasons to smile, laugh, and feel loved, because you truly deserve every bit of happiness in the world.
-Birthdays come once a year, but people who leave a positive impact on others are rare. Your kindness, your smile, and the way you brighten the people around you make you someone who is genuinely special.
+I hope today brings you countless reasons to smile, laugh, and feel loved, because you truly deserve every bit of happiness in the world.People who leave a positive impact on others are rare. Your kindness, your smile, and the way you brighten the people around you make you someone who is genuinely special.
 Life moves fast, and we often get busy with work, responsibilities, and everything else. But Birthday is a beautiful reminder of how far we've come and how many wonderful moments are still waiting ahead so today is about celebrating you—your journey, your dreams, your achievements, and all the wonderful moments still waiting for you.
 I hope this year surprises you with good health, beautiful opportunities, peaceful days, unforgettable memories, endless laughter, success in everything you dream of, and people who always value and support you. Whenever life gets difficult, I hope you remember how strong, capable, and wonderful you truly are.
 There is something I want to say to you...
@@ -23,7 +22,7 @@ With warm wishes,
 
 // Typing speed in milliseconds
 // Lower value = faster typing
-const typingSpeed = 50;
+const typingSpeed = 55;
 
 const messageElement = document.getElementById("birthdayMessage");
 
