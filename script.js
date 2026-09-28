@@ -1,47 +1,25 @@
 const message = [
 
-`hello,
-Mast ahes na ?`,
-
-`sorry tula khich contact thevaycha nastana me contact krtoy ani tehi asa tyastathi pn he shevatch, hya nantr kadhich tras nhi denar. gele don mahine jase gelet tasach pudhe pn chalu rahil.`,
-
-`aaj tras detoy tyala thod karan hot
-
-Congratulations.....
-
-finally Ex-BFE banteys, I belive changlach job bhetala asel. mala aavdhel janun gheyla konti company konti post etc etc jr tu zhalel srw thod bajula thevun sangu shklis tr ani nhi sangitls tri thik ahe... Evdh srw zhalyavr punha khi mala share karav as nhi vadhnar tula so its okk.`,
-
-`tula asa samj hoil aata ki me tuzi chowkshi keli pn me khrch tuzi direct kiva indirect kashich chowkshi keli nhwti. Jevha mala he gosht samjali, Me thoda surprice zhalo ani aanad pn zhala finally bfe mdhun sutlis mhnun. Call kela hota tevha fdss madhl kon kon gel he bolt astana samorunch mala sangitl ki tu dekhil resign kelays as.
-Trust nasel mazyavr tya movie chya goshti mule karn te goshti ftk tin janana mahit hoti tyat tu swtha ahes ani jagdish sir jyani nhi sangitl hyachi tula gurrenty ahe so urlo mich pn tri please possible asel tr vishwas thev hyavr.
-
-me naav nahi ghetlay konakadhun kalal te, pn jr tula vishawas nasel basat mazyavr tr te naav dekhil sangel.
-aata nhi sangtey karn ragat tyla bolyla gelis tr te mhnle me ithli gosht tidhe krto jyacha mala tri kahich frk nhi padat unless and untill tu ahes.`,
-
-`Aso zhal khup khi... srw visrun navin survat kruya ka, unblock kr as nhi bolnar.. te deserve nsel krt me. Kush raha. Navin job new life new collegues new location enjoy kr
-
-congratulations once again and all the best for future endeavors...
-
-ani sorry je khi zhal tyasathi khupch jast tras dila na tula... and thank you very much..
-
-take care
-
-miss you ... tuzya peksha hi jast sobatche divas khup miss krto... but hoil savay..`,
-
-`chalo bahot hua msg ka motive new job hota train track change nko karyla...
-
-all the best
-
-ani he chochlates enjoy kr... yacha pn ek bhari seen zhalay aaj coincidence asel pn itke ki vichru nko.. aso punha train track sodel.
-
-byy
-
-Congrats once again and all the best yaar....`,
-
-`are ajun ek hot office no vr block ahe I guess. tu jashil ani te tasch rahil ani koni baghitl tr tula vichrl vaigre chukun tula tr ugach tuzya life madhe nav yeych maz bfe mdhun gelyavr pn mhnun...
-
-chal aata pakka byy
-
-take care anuja`
+Happiest Birthday, Anuja! ❤️
+Dear Anuja (Nae haengbok 😊)
+Happy Birthday to the most amazing person! 🎉
+I hope today brings you countless reasons to smile, laugh, and feel loved, because you truly deserve every bit of happiness in the world.
+Birthdays come once a year, but people who leave a positive impact on others are rare. Your kindness, your smile, and the way you brighten the people around you make you someone who is genuinely special.
+Life moves fast, and we often get busy with work, responsibilities, and everything else. But Birthday is a beautiful reminder of how far we've come and how many wonderful moments are still waiting ahead so today is about celebrating you—your journey, your dreams, your achievements, and all the wonderful moments still waiting for you.
+I hope this year surprises you with good health, beautiful opportunities, peaceful days, unforgettable memories, endless laughter, success in everything you dream of, and people who always value and support you. Whenever life gets difficult, I hope you remember how strong, capable, and wonderful you truly are.
+There is something I want to say to you...
+I know I have hurt you, disappointed you, annoyed you, and become the reason for some unpleasant moments in your life. For all of that, I am truly sorry. It was never my intention to make your life even a little difficult, and I never wanted to become a source of discomfort or unhappiness in your life. Looking back, There were many moments which could have handled better, but I can't change the past. All I can do now is sincerely apologize, and I hope you can remember that none of it ever came from a place of bad intention.
+Life has a way of taking people onto different paths, and sometimes the kindest thing we can do is respect those paths. No matter where life takes us from here, I genuinely hope you always find reasons to smile, people who care for you, and moments that make your heart feel at peace.
+Thank you for being the person you are. 
+Apart from those nice seniors, you are one of the greatest people Bharati Fire brought into my life, and I'll always be grateful for that.
+I made this little birthday surprise with only one intention—to make you smile, even if it's just for a few moments. If it managed to do that, then it has already fulfilled its purpose.
+May your smile never fade, your heart always stays full, and your life be filled with love, good health, success, happiness, billions of beautiful memories and a good people.
+Happpppiiiiieeeesssssttttt Birthday, Anuja! ❤️
+Wishing you nothing but the very best—for today, for this year, and for all the years to come.
+Take care of yourself, always…
+Keep smiling, always…
+With warm wishes,
+Aditya
 ];
 
 
