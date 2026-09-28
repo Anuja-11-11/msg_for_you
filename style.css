@@ -1,80 +1,51 @@
-
-/* Hide message initially */
-
-#messagePage {
-    display: none;
-}
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     min-height: 100vh;
-    background: #f7f3ee;
-    color: #292929;
-    font-family: "Segoe UI", Arial, sans-serif;
+    background: #fff7fb;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Arial, sans-serif;
 }
 
 .message-container {
-    width: 100%;
-    max-width: 850px;
-    margin: 0 auto;
-    padding: 70px 25px 100px;
-    font-size: 18px;
-    line-height: 1.9;
-    letter-spacing: 0.2px;
+    width: 90%;
+    max-width: 700px;
+
+    padding: 30px;
+
+    font-size: 20px;
+    line-height: 1.8;
+
+    color: #333;
+
+    text-align: left;
 }
 
-#message {
+#birthdayMessage {
     white-space: pre-wrap;
-    word-wrap: break-word;
 }
 
-.paragraph {
-    margin-bottom: 28px;
-}
+/* Blinking typing cursor */
+#birthdayMessage::after {
+    content: "|";
 
-.cursor {
-    display: inline-block;
-    width: 2px;
-    height: 20px;
-    background: #292929;
-    margin-left: 3px;
-    vertical-align: -3px;
-    animation: blink 0.8s infinite;
+    animation: blink 0.7s infinite;
 }
 
 @keyframes blink {
-    0%, 45% {
+    0%, 50% {
         opacity: 1;
     }
 
-    46%, 100% {
+    51%, 100% {
         opacity: 0;
-    }
-}
-
-/* Mobile */
-@media (max-width: 600px) {
-
-    .message-container {
-        padding: 45px 20px 80px;
-        font-size: 16px;
-        line-height: 1.8;
-    }
-
-    .paragraph {
-        margin-bottom: 25px;
-    }
-
-    .cursor {
-        height: 18px;
     }
 }
